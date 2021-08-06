@@ -14,7 +14,7 @@ public class AppTest {
     @Test
     public void  testabc(){
         System.out.printf("abc....");
-        System.out.println("主干操作master...");
+        System.out.println("主干操作master......");
     }
 
 }

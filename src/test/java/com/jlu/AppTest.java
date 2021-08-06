@@ -14,7 +14,7 @@ public class AppTest {
     @Test
     public void  testabc(){
         System.out.printf("abc....");
-        System.out.println("分支leaf01的操作...");
+        System.out.println("主干操作master...");
     }
 
 }
